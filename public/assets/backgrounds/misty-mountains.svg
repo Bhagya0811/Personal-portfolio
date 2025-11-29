@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="mistyGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:rgba(0,0,0,0.8); stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgba(255,255,255,0.1); stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#mistyGradient)" />
+  <g>
+    <path d="M0 400 Q150 300 300 400 T600 400 T800 400 L800 600 L0 600 Z" fill="#2c2c2c" />
+    <path d="M0 450 Q150 350 300 450 T600 450 T800 450 L800 600 L0 600 Z" fill="#1a1a1a" />
+    <path d="M0 500 Q150 400 300 500 T600 500 T800 500 L800 600 L0 600 Z" fill="#0d0d0d" />
+  </g>
+</svg>

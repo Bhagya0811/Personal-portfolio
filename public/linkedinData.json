@@ -1,0 +1,62 @@
+{
+  "headline": "Master's student in Computer Science at EPITA — Aspiring ML / Data Engineer / Data Scientist",
+  "summary": "I am Bhagyasri Parupudi, a Master's student in Computer Science at EPITA (France). I focus on machine learning, data engineering, and building scalable data-driven systems. I have experience with Python, ML frameworks, SQL, and cloud platforms.",
+  "education": [
+    {
+      "school": "EPITA",
+      "degree": "Master's in Computer Science",
+      "field": "Machine Learning / Data Science",
+      "startYear": "2023",
+      "endYear": "2025"
+    }
+  ],
+  "experience": [
+    {
+      "title": "AWS Cloud Virtual Internship",
+      "company": "EduSkills",
+      "location": "Remote",
+      "startDate": "Sep-Nov2022",
+      "endDate": "",
+      "description": "Virtual internship focused on AWS cloud architecture and deployment.",
+      "certificatePath": "/certificates/AWS_Cloud_Virtual_Internship_EduSkills.pdf",
+      "achievements": [
+        "Gained hands-on experience with AWS services (EC2, S3, Lambda)",
+        "Implemented serverless architectures and cloud solutions"
+      ]
+    },
+    {
+      "title": "Machine Learning Internship",
+      "company": "SkillDizire",
+      "location": "Remote",
+      "startDate": "Feb - April 2024",
+      "endDate": "",
+      "description": "Long-term machine learning internship program focusing on real-world ML applications.",
+      "certificatePath": "/certificates/ML_Internship_SkillDizire.pdf",
+      "achievements": [
+        "Developed and trained machine learning models using Python and scikit-learn",
+        "Participated in data preprocessing, feature engineering, and model evaluation"
+      ]
+    },
+    {
+      "title": "AI & Machine Learning Internship",
+      "company": "IBM SkillBuild / edunet",
+      "location": "Remote",
+      "startDate": "June - July 2023",
+      "endDate": "",
+      "description": "6-week intensive AI and ML internship covering core ML concepts and applications.",
+      "certificatePath": "/certificates/AI_ML_Internship_IBM_SkillBuild.pdf",
+      "achievements": [
+        "Completed hands-on projects in machine learning and artificial intelligence",
+        "Mastered TensorFlow and deep learning frameworks"
+      ]
+    }
+  ],
+  "certifications": [
+    { "name": "Fundamentals of Data Analytics", "issuer": "Analyttica", "date": "2023", "certificatePath": "/certificates/Fundamentals_of_Data_Analytics_Analyttica.pdf" },
+    { "name": "Basics of Python", "issuer": "Infosys", "date": "2023", "certificatePath": "/certificates/Basics_of_Python_Infosys.pdf" },
+    { "name": "Microsoft Azure Fundamentals", "issuer": "Microsoft", "date": "2022", "certificatePath": "/certificates/Microsoft_Azure_Fundamentals.pdf" }
+  ],
+  "featured": [
+    { "title": "Personal Portfolio", "url": "https://github.com/Bhagya0811/Personal-portfolio" }
+  ]
+}
