@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: "Bhagyasri Parupudi",
+  name: "Bhagya Sri Parupudi",
   title: "Aspiring ML Engineer - Data Engineer - Data Scientist",
   tagline: "Exploring the Lands Between Data and Intelligence",
   links: {
