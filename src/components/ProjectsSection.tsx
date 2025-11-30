@@ -11,6 +11,12 @@ const ProjectsSection = () => {
         const getProjects = async () => {
             const curated = [
                 { key: "Bhagya0811/Personal-portfolio", name: "Personal-portfolio", url: "https://github.com/Bhagya0811/Personal-portfolio", summary: "Portfolio built with Next.js, Tailwind, and Framer Motion. Dark theme, animations, and API-backed sections." },
+                { key: "Bhagya0811/Employee-performance-prediction", name: "Employee-performance-prediction", url: "https://github.com/Bhagya0811/Employee-performance-prediction.git", summary: "A machine learning project to predict employee performance using Python, Pandas, and Scikit-learn. Involves data preprocessing, model training, and evaluation." },
+                { key: "Bhagya0811/Evaluating-YOLOv10-for-Precision-Fruit-Counting", name: "Evaluating-YOLOv10-for-Precision-Fruit-Counting", url: "https://github.com/Bhagya0811/Evaluating-YOLOv10-for-Precision-Fruit-Counting.git", summary: "A computer vision project using YOLOv10 to count fruits in images. Utilizes Python and OpenCV for image processing and model evaluation." },
+                { key: "Bhagya0811/AWS-Project", name: "AWS-Project", url: "https://github.com/Bhagya0811/AWS-Project.git", summary: "An AWS cloud computing project demonstrating the use of various AWS services such as EC2, S3, and Lambda for scalable application deployment." },
+                { key: "Bhagya0811/VAT-Algorithm", name: "VAT-Algorithm", url: "https://github.com/Bhagya0811/VAT-Algorithm.git", summary: "Implementation of the VAT (Visual Assessment of cluster Tendency) algorithm in Python. Used for determining the clustering tendency of a dataset before applying clustering algorithms." },
+                { key: "Bhagya0811/Employee_Burnout_Analysis", name: "Employee_Burnout_Analysis", url: "https://github.com/Bhagya0811/Employee_Burnout_Analysis.git", summary: "A data analysis project focused on identifying factors contributing to employee burnout using Python, Pandas, and Matplotlib for data visualization." },
+                { key: "Bhagya0811/dsp_bhagyasri_parupudi", name: "Data Science Portfolio", url: "https://github.com/Bhagya0811/dsp_bhagyasri_parupudi.git", summary: "A comprehensive data science portfolio showcasing various projects involving data analysis, machine learning, and statistical modeling using Python and R." },
                 
             ];
 
