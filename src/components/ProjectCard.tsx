@@ -7,7 +7,7 @@ interface ProjectCardProps {
 const ProjectCard: React.FC<ProjectCardProps> = ({ project }) => {
     // Map GitHub repo fields to card UI fields with safe defaults
     const projectName = project.name || project.projectName || 'Untitled Project';
-    const description = project.description || project.summary || '';
+    const description = project.summary || project.description || '';
     const role = project.role || 'Contributor';
     const techStack = project.topics || (project.techStack || []);
     const achievements = project.achievements || [];
