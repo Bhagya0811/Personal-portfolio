@@ -8,8 +8,7 @@ const skillsData = [
     {
         category: 'Programming Languages',
         skills: [
-            { name: 'Python', level: 'Expert' },
-            { name: 'Java', level: 'Adept' },
+            { name: 'Python', level: 'Adept' },
             { name: 'SQL', level: 'Adept' },
         ],
     },
@@ -25,14 +24,14 @@ const skillsData = [
         category: 'Data Engineering',
         skills: [
             { name: 'ETL', level: 'Adept' },
-            { name: 'Big Data Tools', level: 'Novice' },
+            { name: 'Big Data Tools', level: 'Intermediate' },
             { name: 'Cloud Services', level: 'Adept' },
         ],
     },
     {
         category: 'DevOps / Tools',
         skills: [
-            { name: 'Git', level: 'Expert' },
+            { name: 'Git', level: 'Adept' },
             { name: 'Docker', level: 'Adept' },
             { name: 'CI/CD', level: 'Adept' },
         ],
