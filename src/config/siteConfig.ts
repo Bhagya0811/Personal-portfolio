@@ -7,7 +7,7 @@ export const siteConfig = {
     linkedin: "https://www.linkedin.com/in/parupudi-bhagyasri/",
     email: "mailto:bhagyasriparupudi@gmail.com",
   },
-  resume: "/assets/Bhagyasri_Parupudi_Resume.pdf",
+  resume: "/certificates/Parupudi_Bhagyasri_Data_Science_Resume.pdf",
   projects: {
     categories: {
       ml: "Machine Learning",

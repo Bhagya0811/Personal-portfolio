@@ -44,7 +44,7 @@ const HeroSection: React.FC = () => {
 
                 <div className="flex flex-wrap justify-center gap-4 mt-12">
                     <a href="#projects" className="px-8 py-3 bg-gradient-to-r from-orange-500 to-orange-600 text-white rounded-lg font-semibold hover:shadow-lg hover:shadow-orange-500/50 transition-all hover:-translate-y-1">View Projects</a>
-                    <a href={siteConfig.resume} className="px-8 py-3 border-2 border-orange-500 text-orange-600 rounded-lg font-semibold hover:bg-orange-50 transition-all">Download Resume</a>
+                    <a href={siteConfig.resume} target="_blank" rel="noopener noreferrer" download className="px-8 py-3 border-2 border-orange-500 text-orange-600 rounded-lg font-semibold hover:bg-orange-50 transition-all">Download Resume</a>
                 </div>
 
                 <div className="flex justify-center gap-6 mt-8">
